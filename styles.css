@@ -1,0 +1,169 @@
+html body {
+  background: url("GlitterBG.PNG");
+}
+
+.logo {
+  background: linear-gradient(to left, #d4af37, #fff44f);
+  text-align: left;
+  font-family: 'Cookie', cursive;
+  vertical-align: middle;
+  color: black;
+  height: auto;
+  width: auto;
+  font-weight: bolder;
+}
+
+.logo2 {
+  background-color: white;
+  height: auto;
+  width: auto;
+  border: 5px solid black;
+  margin-bottom: 2%;
+  padding: 2rem;
+	font-family: 'Cookie', cursive;
+}
+
+.logo2:hover {
+  background-color: #6DB7CA;
+  color: white;
+}
+
+.nav-item {
+  font-size: 120%;
+}
+
+.navbar-brand {
+  text-align: left;
+  vertical-align: middle;
+}
+
+.navbar {
+  background-color: grey;
+  color: black;
+  padding: 5%;
+}
+
+.welcome {
+  text-align: center;
+  color: black;
+  background-color: white;
+	font-family: 'Cookie', cursive;
+}
+
+.welcomehr {
+	border: none;
+	width: 20%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.cheesecakescarousel {
+	margin: 5% auto 5% auto;
+  width: 80%;
+  height: 40%;
+}
+
+.cheesecakescarousel img {
+  border: 10px solid black;
+}
+
+.footer {
+  background: linear-gradient(to left, #397b86, #a1e0ea);
+  text-align: center;
+  color: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-size: cover;
+  margin-left: 0;
+}
+
+.f1 {
+  margin-top: 0;
+  margin-bottom: 0;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.col-md {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-family: 'Cookie', cursive;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 0 0 0;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+}
+
+.container1 img {
+  width: 100%;
+}
+
+.paf {
+  text-align: center;
+  color: #086E7D;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+.pafbg {
+  background-color: white;
+}
+
+.pafh {
+  background: #6163D3;
+  color: #FFD23E;
+  font-weight: bolder;
+  padding: 2%;
+}
+
+.pafb {
+  padding-top: 2%;
+  background: #FCF769;
+}
+
+.pafo {
+  padding: 2%;
+  background: #FFD23E;
+  color: #6163D3;
+	font-weight: 900;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .pafb {
+    font-size: 4vw;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .pafb {
+    font-size: 3vw;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .pafb1 {
+    font-size: 2.9vw;
+  }
+
+  .pafb2 {
+    font-size: 1.25vw;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .pafb1 {
+    font-size: 2.9vw;
+  }
+
+  .pafb2 {
+    font-size: 1.5vw;
+  }
+}
