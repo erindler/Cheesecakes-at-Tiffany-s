@@ -93,6 +93,16 @@ html body {
   margin: 0 0 0 0;
 }
 
+.col-md-6 {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-family: 'Cookie', cursive;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 0 0 0;
+}
+
 .bottom-left {
   position: absolute;
   bottom: 5%;
