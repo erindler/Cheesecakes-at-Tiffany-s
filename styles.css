@@ -18,8 +18,9 @@ html body {
   height: auto;
   width: auto;
   border: 5px solid black;
-  margin-bottom: 2%;
-  padding: 2rem;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  padding: 10px;
 	font-family: 'Cookie', cursive;
 }
 
@@ -40,7 +41,7 @@ html body {
 .navbar {
   background-color: grey;
   color: black;
-  padding: 5%;
+  /* padding: 5%; */
 }
 
 .welcome {
